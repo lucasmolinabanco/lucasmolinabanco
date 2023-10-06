@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"On The Road",
+        "author":"Jack Kerouac",
+        "price":10,
+        "img":"https://tse1.mm.bing.net/th?id=OIP.l2_HsgN4GVNLdu7YWfUeewHaLG&pid=Api&P=0&h=180"
+    },
+
+    {
+        "id":2,
+        "name":"Harry Potter y la piedra filosofal",
+        "author":"JK.Rowling",
+        "price":15,
+        "img":"https://tse1.mm.bing.net/th?id=OIP.8ypHYVWdaKQJABAJZNsm8wHaLz&pid=Api&P=0&h=180"
+    },
+
+    {
+        "id":3,
+        "name":"Las Cronicas de Narnia:El principe Caspian",
+        "author":"CS.Lewis",
+        "price":20,
+        "img":"https://tse3.mm.bing.net/th?id=OIP.f2PRqGY-tB9UJpb-oLwTPwHaLI&pid=Api&P=0&h=180"
+    },
+
+    {
+        "id":4,
+        "name":"El señor de los anillos:Las Dos Torres",
+        "author":"JRR.Tolkien",
+        "price":20,
+        "img":"https://tse3.mm.bing.net/th?id=OIP.1g8xVvuJHnphMy_6DWDI0gHaLh&pid=Api&P=0&h=180"
+    }
+]
